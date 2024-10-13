@@ -1,0 +1,19 @@
+1. Explain what the terminal is in your own words. A terminal is a tool that allows you to interact directly with your computer's operating system using text-based commands.
+
+
+2. What is the major difference between Git and GitHub? The difference between Git and GitHub is that Git is a version control system, while GitHub is a platform for hosting Git repositories.
+
+
+3.  What are the steps to fork a GitHub repository? 
+
+-Log into GitHub: Make sure you're logged into your GitHub account.
+
+-Find the Repository: Navigate to the repository you want to fork by either searching for it or getting a direct link.
+
+-Click the Fork Button: On the repository’s page, you’ll see a "Fork" button in the upper right corner. Click it.
+
+-Wait for the Fork: GitHub will now create a copy of the repository under your account. This may take a few seconds.
+
+-Clone Your Fork (Optional): Once forked, if you want to work on the project locally, click the green “Code” button on your forked repository page, copy the URL, and use the terminal to clone it to your local machine by running git clone <URL>.
+
+
